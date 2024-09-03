@@ -1,0 +1,20 @@
+1. “Talk is cheap. Show me the code.” — Linus Torvalds
+2. “Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson
+3. “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+4. “First, solve the problem. Then, write the code.” — John Johnson
+5. “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+6. “Simplicity is the soul of efficiency.” — Austin Freeman
+7. “Before software can be reusable it first has to be usable.” — Ralph Johnson
+8. “The only way to go fast is to go well.” — Robert C. Martin
+9. “It’s not a bug – it’s an undocumented feature.” — Anonymous
+10.“In order to understand recursion, one must first understand recursion.” — Anonymous
+11. “Testing can only prove the presence of bugs, not their absence.” — Edsger Dijkstra
+12. “The best error message is the one that never shows up.” — Thomas Fuchs
+13. “Controlling complexity is the essence of computer programming.” — Brian Kernighan
+14. “The function of good software is to make the complex appear to be simple.” — Grady Booch
+15. “Walking on water and developing software from a specification are easy if both are frozen.” — Edward V. Berard
+16. “Code never lies, comments sometimes do.” — Ron Jeffries
+17. “Programming isn’t about what you know; it’s about what you can figure out.” — Chris Pine
+18. “Experience is the name everyone gives to their mistakes.” — Oscar Wilde
+19. “There are two ways to write error-free programs; only the third one works.” — Alan Perlis
+20. “Deleted code is debugged code.” — Jeff Sickel
