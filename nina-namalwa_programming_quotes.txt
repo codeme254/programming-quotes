@@ -1,0 +1,20 @@
+Code is like humor. When you have to explain it, it’s bad — Cory House
+Programs must be written for people to read, and only incidentally for machines to execute — Abelson and Sussman
+The best way to predict the future is to invent it — Alan Kay
+Good code is its own best documentation — Steve McConnell
+When debugging, novices insert printf statements, experts remove them — Eric S. Raymond
+Simplicity is the soul of efficiency — Austin Freeman
+The only way to go fast is to go well —Robert C. Martin
+A good programmer is someone who always looks both ways before crossing a one-way street — Doug Ladd
+It’s not about ideas. It’s about making ideas happen — Scott Belsky
+Code never lies, comments sometimes do — Ron Jeffries
+The problem is not the problem. The problem is your attitude about the problem — Captain Jack Sparrow
+Programming is the art of telling another human being what one wants the computer to do — Donald Knuth
+There are two hard things in computer science: cache invalidation, and naming things — Phil Karlton
+The computer was born to solve problems that did not exist before — Bill Gates
+I am not a great programmer; I am just a good programmer with great habits — Kent Beck
+A programming language is low-level when its programs require attention to the irrelevant — Abraham Lincoln
+Software is a great combination between artistry and engineering — Bill Gates
+You can't have great software without a great team, and most software teams don't need more people, they need more time to think — Jim McCarthy
+The most disastrous thing that you can ever learn is your first programming language — Alan Perlis
+The computer is no substitute for the human mind, and it never will be — Seymour Papert
