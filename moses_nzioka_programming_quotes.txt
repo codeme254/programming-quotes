@@ -1,0 +1,20 @@
+1. Coding like poetry should be short and concise. ― Santosh Kalwar
+2. It’s not a bug; it’s an undocumented feature. ― Anonymous
+3. First, solve the problem. Then, write the code. – John Johnson
+4. Code is like humor. When you have to explain it, it’s bad. – Cory House
+5. Make it work, make it right, make it fast. – Kent Beck
+6. Clean code always looks like it was written by someone who cares. — Robert C. Martin
+7. Of course, bad code can be cleaned up. But it’s very expensive.” — Robert C. Martin
+8. software is like sex: it’s better when it’s free. – Linus Torvalds
+9. If we want users to like our software, we should design it to behave like a likable person.  – Alan Cooper
+10. Quality is a product of a conflict between programmers and testers. ― Yegor Bugayenk
+11. Everybody should learn to program a computer because it teaches you how to think. – Steve Jobs
+12. I taught myself how to program computers when I was a kid, bought my first computer when I was 10, and sold my first commercial program when I was 12. – Elon Musk
+13. Software and cathedrals are much the same — first we build them, then we pray.
+14. Web development is difficult, only then it is fun to do. You just have to set your standards. If it were to be easy, would anyone do it? ― Olawale Daniel
+15. Programmers seem to be changing the world. It would be a relief, for them and for all of us, if they knew something about it.  – Ellen Ullman
+16. Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. – Linus Torvalds
+17. Programmer: A machine that turns coffee into code. – Anonymous
+18. When I wrote this code, only God and I understood what I did. Now only God knows.  – Anonymous
+19. I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck
+20. You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity. – John Romero
