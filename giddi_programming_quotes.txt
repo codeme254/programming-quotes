@@ -1,0 +1,56 @@
+1. “Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.”
+― Rick Cook, The Wizardry Compiled
+
+2. “Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live”
+― John Woods
+
+3. “I'm not a great programmer; I'm just a good programmer with great habits.”
+― Kent Beck
+
+5. “That's the thing about people who think they hate computers. What they really hate is lousy programmers.”
+― Larry Niven
+
+6. “The most disastrous thing that you can ever learn is your first programming language.”
+― Alan Kay
+
+7. “The most important property of a program is whether it accomplishes the intention of its user.”
+― C.A.R. Hoare
+
+8. “Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches.”
+― Paul Graham, Hackers & Painters: Big Ideas from the Computer Age
+
+9. “Programming is about managing complexity: the complexity of the problem, laid upon the complexity of the machine. Because of this complexity, most of our programming projects fail.”
+― Bruce Eckel, On Java 8
+
+10. “If, at first, you do not succeed, call it version 1.0.”
+― Khayri R.R. Woulfe
+
+11. "In God we trust. All others must bring data."
+- W. Edwards Demming
+
+12. "You can’t have great software without a great team, and most software teams behave like dysfunctional families."
+- Jim McCarthy
+
+13. "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
+- Linus Torvalds
+
+14. "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
+— Brian W. Kernighan
+
+15. "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time."
+— Tom Cargill
+
+16. "There are only two kinds of languages: the ones people complain about and the ones nobody uses."
+— Bjarne Stroustrup
+
+17. "Being a good software engineer is 3% talent, 97% not being distracted by the internet."
+— Unknown (motivation)
+
+18. "Optimism is an occupational hazard of programming. Feedback is the treatment." 
+- Kent Beck
+
+19. "Programming is like sex. One mistake and you have to support it for the rest of your life."
+– Michael Sinz
+
+20 "If you don't have a good system, make sure you get good users."
+-Anonymous
