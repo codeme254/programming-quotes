@@ -1,0 +1,21 @@
+
+1. "Talk is cheap. Show me the code." - Linus Torvalds
+2. "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
+3. "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." - John Woods
+4. "The most disastrous thing that you can ever learn is your first programming language." - Alan Kay
+5. "It’s harder to read code than to write it." - Joel Spolsky
+6. "Programming isn't about what you know; it's about what you can figure out." - Chris Pine
+7. "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates
+8. "The best error message is the one that never shows up." - Thomas Fuchs
+9. "Perl – The only language that looks the same before and after RSA encryption." - Keith Bostic
+10. "There are two ways to write error-free programs; only the third one works." - Alan J. Perlis
+11. "Java is to JavaScript what car is to Carpet." - Chris Heilmann
+12. "The most important property of a program is whether it accomplishes the intention of its user." - C.A.R. Hoare
+13. "Before software can be reusable, it first has to be usable." - Ralph Johnson
+14. "A language that doesn't affect the way you think about programming is not worth knowing." - Alan Perlis
+15. "In theory, there is no difference between theory and practice. But, in practice, there is." - Jan L.A. van de Snepscheut
+16. "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." - Antoine de Saint-Exupery
+17. "Code never lies, comments sometimes do." - Ron Jeffries
+18. "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late." - Seymour Cray
+19. "If debugging is the process of removing software bugs, then programming must be the process of putting them in." - Edsger Dijkstra
+20. "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler
