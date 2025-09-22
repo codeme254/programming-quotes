@@ -1,0 +1,43 @@
+1. Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and
+  the Universe trying to produce bigger and better idiots. So far, the Universe is winning -Rick Cook
+
+2. Walking on water and developing software from a specification are easy if both are frozen.-Edward V. Berard
+
+3. There are only two kinds of programming languages: those people always bitch about and those nobody uses.- Bjarne 
+
+4. The best thing about a boolean is even if you are wrong, you are only off by a bit.-Anonymous
+
+5. It’s not a bug – it’s an undocumented feature.-Anonymous
+
+6. If debugging is the process of removing software bugs, then programming must be the process of putting
+   them in.-Edsger W. Dijkstra
+
+7. I don’t care if it works on your machine! We are not shipping your machine!- Platon
+
+8. A good programmer is someone who always looks both ways before crossing a one-way street.-Doug Linder
+
+9. Software undergoes beta testing shortly before it’s released. Beta is Latin for ‘still doesn’t work.-Anonymous
+
+10. Weeks of programming can save you hours of planning.-Anonymous
+
+11. Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.-John
+    Woods
+
+12. There is no programming language—no matter how structured that will prevent programmers from making bad programs.-Larry
+    Flon
+
+13. Programming can be fun, so can cryptography; however they should not be combined.-Kreitzberg and Shneiderman
+
+14. The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.-Seymour Cray
+
+15. Real programmers don’t comment their code. If it was hard to write, it should be hard to understand.-Anonymous
+
+16. The only way to go fast, is to go well.-Robert C. Martin (Uncle Bob)
+
+17. In theory, there is no difference between theory and practice. But, in practice, there is.-Jan L. A. van de Snepscheut
+
+18. Programming is like writing a book… except if you miss out a single comma on page 126 the whole thing makes 
+    no sense.-Anonymous
+19. Good code is its own best documentation.-Steve McConnell
+
+20. Any fool can write code that a computer can understand. Good programmers write code that humans can understand.-Martin Fowler
