@@ -1,0 +1,39 @@
+1.Software comes from heaven when you have good hardware- ken olsem
+
+2.There is always one more bug to fix-Ellen ullman
+
+3.Talk is cheap.show me the code-torvald linus
+
+4.If at first,you do not succed call it version 1.0. -KhayriR.R woulfe
+
+5.Computers are fast; developers keep them slow. – Anonymous
+
+6.Coding like poetry should be short and concise. ― Santosh Kalwar
+
+7.It’s not a bug; it’s an undocumented feature. ― Anonymous
+
+8.First, solve the problem. Then, write the code. – John Johnson
+
+9.Code is like humor. When you have to explain it, it’s bad. – Cory House
+
+10.Make it work, make it right, make it fast. – Kent Beck
+
+11.Clean code always looks like it was written by someone who cares. — Robert C. Martin
+
+12.Of course, bad code can be cleaned up. But it’s very expensive. — Robert C. Martin
+
+13.Experience is the name everyone gives to their mistakes. – Oscar Wilde
+
+14.Confusion is part of programming. ― Felienne Hermans
+
+15.Software is like sex: it’s better when it’s free. – Linus Torvalds
+
+16.Quality is a product of a conflict between programmers and testers. ― Yegor Bugayenk
+
+17.Everybody should learn to program a computer because it teaches you how to think. – Steve Jobs
+
+18.Programming is learned by writing programs. ― Brian Kernighan
+
+19.I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck
+
+20.Programmer: A machine that turns coffee into code. – Anonymous
