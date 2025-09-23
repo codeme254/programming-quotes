@@ -1,0 +1,39 @@
+1. "Code, Ctrl + C, Ctrl + V" - Brian
+
+2. "Talk is cheap. Show me the code." - Linus Torvalds
+
+3. "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson  
+
+4. "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler  
+
+5. "First, solve the problem. Then, write the code." - John Johnson  
+
+6. "Good code is its own best documentation." - Steve McConnell  
+
+7. "The most disastrous thing that you can ever learn is your first programming language." - Alan Kay  
+
+8. "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates
+  
+9. "A language that doesn’t affect the way you think about programming is not worth knowing." - Alan Perlis  
+
+10. "In theory, there is no difference between theory and practice. But, in practice, there is." - Jan L. A. van de Snepscheut  
+
+11. "Simplicity is the soul of efficiency." - Austin Freeman  
+
+12. "There are only 10 types of people in the world: those who understand binary, and those who don’t." - Unknown  
+
+13. "Why do programmers always mix up Christmas and Halloween? Because Oct 31 == Dec 25" - Unknown  
+
+14. "Jesus changed water into wine, let’s change coffee into code" - Brian  
+
+15. "I don’t always follow coding conventions, but when I do, it’s because I copied and pasted from Stack Overflow." - Unknown  
+
+16. "Debugging is twice as hard as writing the code in the first place." - Brian Kernighan  
+
+17. "Code never lies, comments sometimes do." - Ron Jeffries  
+
+18. "The best way to get a project done faster is to start sooner." - Jim Highsmith  
+
+19. "Before software can be reusable it first has to be usable." - Ralph Johnson  
+
+20. "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases." - Norman Augustine  
