@@ -1,0 +1,59 @@
+1. "There are only 10 types of people: Those who understand binary and those who don't" 
+	- Amon
+
+2. "The code wasn't working, I didn't know why. Now its working and I have no idea why either" 
+	- Amon
+
+3. "Code is like sex, even better when it's free"
+	- Linus Torvalds
+
+4. "It is not a bug, It's an undocumented feature"
+	- Anonymous
+
+5. "Talk is cheap. Show me your code"
+	- Linus Torvalds
+
+6. "Coding is like humor, its that bad when you have to explain it"
+	- Cory House
+
+7. "Functions should do something or answer somthing not both" 
+	- Robert Martin.
+
+8. "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger 	and better idiots"
+	-Unknown
+
+9. "Computers are man's attempt at designing a cat: it does whatever it wants, whenever it wants, and rarely ever at the right time"
+	- Unknown
+
+10. "In God we trust. All others must bring data."
+	-Edward Demming
+
+11. "You can’t have great software without a great team, and most software teams behave like dysfunctional families." 
+	- Jim McCarthy
+
+12. "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+	- Martin Golding
+
+13. "Nine people can’t make a baby in a month." (regarding the addition of more programmers to get a project completed faster)
+	– Fred Brooks
+
+14. "Programming is like sex. One mistake and you have to support it for the rest of your life."
+	– Michael Sinz
+
+15. "Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems."
+	— Jamie Zawinski
+
+16. "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time."
+	— Tom Cargill
+
+17. "It's all talk until the code runs."
+	— Ward Cunninghams
+
+18. "Given enough eyeballs, all bugs are shallow."
+	- Linus Torvalds (open source) 
+
+19. "When in doubt, use brute force." 
+	- Ken Thompson (career)
+
+20. "I'm not a great programmer. I'm just a good programmer with great habits." 
+	― Kent Beck
